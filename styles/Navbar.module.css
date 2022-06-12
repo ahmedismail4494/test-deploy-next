@@ -1,0 +1,22 @@
+
+
+
+.navbar{
+  height: 50px;
+  background-color: rgba(0, 255, 255, 0.671);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+}
+
+.lnk{
+  padding: 10px 20px;
+  color: #fff;
+}.lnk:hover{
+  background-color: blue;
+}
+
+
+
+
